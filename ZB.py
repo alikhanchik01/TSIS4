@@ -1,0 +1,5 @@
+x=int(input())
+y=int(input())
+x1=int(input())
+y1=int(input())
+print('YES' if abs(x1-x)==abs(y1-y) else 'NO')
